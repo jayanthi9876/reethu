@@ -1,0 +1,15 @@
+git config --global user.email jayanthireddya@gmail.com
+git config --global user.name jayanthi9876
+
+
+
+
+git clone < centeral repository URL>
+cd <Repository Name>
+inside repository adding files f1 f2 f3
+
+git status
+git add *
+git commit -m "adding file"
+git push origin main (or)master
+
